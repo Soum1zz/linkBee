@@ -1,0 +1,27 @@
+
+.wrapper{
+    font-size: xx-large;
+    height:900px;
+    width: auto;
+    padding: 20px;
+    text-align: center;
+    box-shadow:  0px 5px 1px,0px -5px 1px;
+    border-radius: 20px;
+}
+.text{
+    height: 25px;
+    width: 480px;
+    font-size: large;
+    border-radius:10px;
+    padding: 20px;
+}
+.Signup,.log-in{
+    background-color: orange;
+    color: rgb(22, 16, 16);
+    font-size: 25px;
+    box-shadow: 1px 1px 2px;
+    border-radius: 5px;
+   margin:20px;
+   font-weight: 300px;
+    cursor: pointer;
+}
